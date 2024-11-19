@@ -1,0 +1,11 @@
+body {
+    font-family: sans-serif;
+}
+
+#title {
+    font-family: cursive;
+    font-size: 60px;
+    background-color: rgb(255, 86, 86);
+    padding: 4px;
+    margin: 0;
+}
